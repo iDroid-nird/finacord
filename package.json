@@ -1,0 +1,25 @@
+{
+  "name": "finacord",
+  "version": "1.0.0",
+  "description": "Financial Accounting Software",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "webpack"
+  },
+  "repository": "https://github.com/iDroid-nird/finacord",
+  "keywords": [],
+  "author": "nirdteq",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.1.1",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.3",
+    "electron-reload": "^1.5.0",
+    "jquery": "^3.5.1",
+    "node-notifier": "^7.0.2"
+  }
+}
