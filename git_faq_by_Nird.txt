@@ -1,0 +1,13 @@
+git>
+author: profnird
+date: 7th August 2020. :: 8.08pm
+//if new .git missing == >> git init 
+// .git will be added
+//if to set update for an existing repostory ==>> git config --global user.email "nirdteq@gmail.com"
+					     ==>> git config --global user.name "Your user name"
+//to update all at once ==>> git add .
+// check the status ==>> git status 
+//confirming changes to the repository ==>> git commit -m "any message"
+//check status ==>> git status
+//check if loged ==>> git log
+// pushing data to git ==>> git push origin master
